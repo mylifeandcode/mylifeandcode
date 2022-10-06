@@ -1,3 +1,5 @@
+
+[![Header](https://github.com/mylifeandcode/mylifeandcode/blob/main/the-airplane.jpg)](https://github.com/mylifeandcode/mylifeandcode/blob/main/the-airplane.jpg)
 ## "Hello there!"
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mylifeandcode)](https://git.io/streak-stats)
