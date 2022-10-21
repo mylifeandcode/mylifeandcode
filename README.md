@@ -9,8 +9,9 @@ Don't repeat yourself. Follow the SOLID principles. Unit tests and code coverage
 ### Technologies I Use
 Angular, .NET, C#, Web API, TypeScript, Jasmine, Karma, RxJS, MSTest, NUnit, Moq, SQL Server, just to name a few. :)
 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mylifeandcode)](https://git.io/streak-stats)
-
+-->
 <!--
 **mylifeandcode/mylifeandcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
